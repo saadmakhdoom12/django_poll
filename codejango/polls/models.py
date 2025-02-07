@@ -1,3 +1,5 @@
+"""This file contains the models for the polls app."""
+
 import datetime
 
 from django.db import models
